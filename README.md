@@ -1,5 +1,5 @@
 # Hibiscus Lab Public Roadmap
-Hibiscus Lab has an audacious but simple vision: to build a new cybersecurity revolution.
+Hibiscus Lab has an audacious but simple vision: to discover, develop and deliver a new cybersecurity revolution.
 
 Hibiscus Lab will use cybersecurity as a catalyst as an economic growth. Estimation around 20,000 professionals in the cybersecurity needed by 2025 in Malaysia. Hibiscus Lab will fill the gap by producing multiple non-techs to IT security experts within short time. 
 
